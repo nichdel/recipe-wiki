@@ -1,4 +1,4 @@
-[[Recipes]]
+[Recipes](/wiki/Recipes.md)
 
 [[Sandbox]]
 
