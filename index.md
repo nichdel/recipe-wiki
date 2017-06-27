@@ -1,3 +1,5 @@
+[700g Bread](wiki/Recipes/700g_Bread.md) 
+
 [Amaretto Truffles](wiki/Recipes/Amaretto_Truffles.md) 
 
 [Apple Bread](wiki/Recipes/Apple_Bread.md) 
@@ -12,9 +14,13 @@
 
 [Bash](wiki/Recipes/Bash.md) 
 
+[Biscuits (Nch)](wiki/Recipes/Biscuits_(Nch).md) 
+
 [Black Bean Hummus](wiki/Recipes/Black_Bean_Hummus.md) 
 
 [Brans Favorite Cookies](wiki/Recipes/Brans_Favorite_Cookies.md) 
+
+[Bread](wiki/Recipes/Bread.md) 
 
 [Breadsticks](wiki/Recipes/Breadsticks.md) 
 
