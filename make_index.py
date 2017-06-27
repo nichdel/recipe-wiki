@@ -11,7 +11,7 @@ links.sort()
 
 p = re.compile("_")
 
-f = open('wiki/index.md', 'w')
+f = open('index.md', 'w')
 
 for string in links:
    nstr = p.sub(' ', string)[0:-3]
